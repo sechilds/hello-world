@@ -6,7 +6,6 @@ A list of things I would like to learn at Software Carpentry
 1. Bash scripting
 2. Git
 3. Python
-4. Cool teaching skills.
 
 ## Learning Objectives
 
